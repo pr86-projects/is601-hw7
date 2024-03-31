@@ -1,3 +1,10 @@
+# My Dockerhub repositories
+https://hub.docker.com/repositories/pr86projects
+https://hub.docker.com/repository/docker/pr86projects/qr_code/general
+https://hub.docker.com/repository/docker/pr86projects/apache-test/general
+https://hub.docker.com/repository/docker/pr86projects/nginx-test/general
+
+
 # Docker and Python
 
 For this assignment you will be combining Docker with Python to create a program that generates a QR code PNG file that
